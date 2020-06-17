@@ -1,5 +1,5 @@
 
-##Recommendify
+#Recommendify
 
 > Discover new music!
 
@@ -24,10 +24,12 @@ The application uses the following endpoints of the Spotify API:
  * [Add Tracks to a Playlist](https://developer.spotify.com/documentation/web-api/reference/playlists/add-tracks-to-playlist/)
  
 
-### Stack
+## Stack
 * Python/Flask
 * Redis (Server-Side Caching)
 * HTML/CSS/JS
 
 
-###  License
+##  License
+MIT
+
