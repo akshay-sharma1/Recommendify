@@ -1,3 +1,4 @@
+
 ##Recommendify
 
 > Discover new music!
@@ -7,7 +8,7 @@
 Recommendify is a web application that allows users to get personalized music recommendations based on a particular genre, 
 mood, or favorite track. 
 
-The algorithm works by matching a user's particular input (e.g genre: pop) with a "seed" catalog of their top artists and tracks, in order to 
+The algorithm works by matching a user's particular input with a "seed" catalog of their top artists and tracks, in order to 
 curate only the most relevant tracks. You can then preview individual songs, add the playlist to your Spotify library, and start listening to it right away!
 
 
