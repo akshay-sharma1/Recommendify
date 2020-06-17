@@ -11,7 +11,7 @@ mood, or favorite track.
 The algorithm works by matching a user's particular input with a "seed" catalog of their top artists and tracks, in order to 
 curate only the most relevant tracks. You can then preview individual songs, add the playlist to your Spotify library, and start listening to it right away!
 
-Try it out [here](https://recommend-ify.herokuapp.com)
+Try it out [here!](https://recommend-ify.herokuapp.com)
 
 
 ## Spotify API
