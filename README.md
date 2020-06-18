@@ -5,7 +5,7 @@
 
 ![](landingPage.PNG)
 
-Recommendify is a web application that allows users to get personalized music recommendations based on a particular genre, 
+Recommendify is a web application that allows Spotify users to get personalized music recommendations based on a particular genre, 
 mood, or favorite track. 
 
 The algorithm works by matching a user's particular input with a "seed" catalog of their top artists and tracks, in order to 
