@@ -15,7 +15,7 @@ Try it out [here!](https://recommend-ify.herokuapp.com)
 
 
 ## Spotify API
-The application uses the following endpoints of the Spotify API:
+The application consumes the following endpoints of the Spotify API:
  * [User Authorization](https://developer.spotify.com/documentation/general/guides/authorization-guide/)
  * [Search for an Item](https://developer.spotify.com/documentation/web-api/reference/search/search/)
  * [Get User Top Tracks/Artists](https://developer.spotify.com/documentation/web-api/reference/personalization/get-users-top-artists-and-tracks/)
